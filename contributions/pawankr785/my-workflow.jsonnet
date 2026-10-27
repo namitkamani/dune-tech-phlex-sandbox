@@ -22,6 +22,10 @@
       cpp: 'add_and_verify',
       layer: 'spill',
     },
+    multiply_cpp: {
+      cpp: 'multiply_pawankr785',
+      layer: 'spill',
+    },
     // FORM writes these products to output.root
     output: {
       cpp: 'form_module',

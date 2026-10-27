@@ -19,7 +19,11 @@ phlex -c ../dune-tech-phlex-sandbox/contributions/<you>/my-workflow.jsonnet --st
 
 ## What you should see
 
-<Paste the `Processed layers:` lines from the end of the output.>
+Seen layers:
+
+  job
+   │ 
+   └ spill: 20
 
 ## One thing I learned today
 
@@ -27,5 +31,4 @@ phlex -c ../dune-tech-phlex-sandbox/contributions/<you>/my-workflow.jsonnet --st
 
 ## One word for today
 
-<A single word for how today went. These make the word cloud at the end.>
-
+It was quite interesting !! But I have to revise all these once again !!
